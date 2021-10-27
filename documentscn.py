@@ -1,3 +1,7 @@
+#YOU NEED TO PLACE YOUR IMAGE IN THE FOLDER WHERE THE PYTHON FILE IS PLACED AND RENAME THE IMAGE IS sample.png
+
+
+
 import cv2
 import numpy as np
 
